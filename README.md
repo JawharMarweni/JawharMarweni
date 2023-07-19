@@ -7,8 +7,8 @@
 ## Hello, Innovators of the Future! 👋
 
 Welcome to the breathtaking world of possibilities! I am Jawhar Marweni, a visionary Software Engineer with an unwavering commitment to pushing the boundaries of technology and redefining the gaming landscape. Prepare to be mesmerized as I unveil my profile, showcasing a stellar collection of projects that will leave you in awe. So, buckle up and brace yourself for an extraordinary journey through innovation and creativity! 🌌
-
-## 🎮 Game Projects
+<!--
+**/## 🎮 Game Projects
 
 ### SavageEvolve: Unleash Your Heroic Potential 🗡️
 
@@ -51,7 +51,7 @@ Welcome to the future of decentralized finance! LiquidityMaster, an ingenious Un
 </p>
 
 Enter a realm where art merges with technology, and creativity knows no bounds! Welcome to Alex's Marvelous Dream, an NFT (Non-Fungible Token) platform that is reshaping the digital art landscape. 🖼️ Immerse yourself in a vibrant marketplace that empowers artists to showcase their exceptional digital creations while offering collectors a secure and innovative platform to acquire unique digital assets. Step into a world where blockchain technology unleashes the full potential of digital art, creating new avenues of expression and value exchange. Join the revolution and let your dreams come alive on Alex's Marvelous Dream!
-
+-->
 ## 📞 Contact Information
 
 Thank you for embarking on this awe-inspiring journey through my profile! If you're ready to take the next step toward innovation or have any queries, collaboration proposals, or simply want to connect, reach out using the following contact information:
