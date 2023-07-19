@@ -15,7 +15,8 @@
 
 I'm Jawhar Marweni, a passionate Software Engineer. This GitHub repository serves as a central hub for my projects and contributions. Here, you'll find a collection of my work, including open-source projects, personal experiments, and collaborations. Feel free to explore and get in touch!
 
-## GitHub Stats
+## Some of my GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JawharMarweni&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=JawharMarweni) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JawharMarweni)](https://github.com/anuraghazra/github-readme-stats)
